@@ -1,0 +1,1 @@
+tudo zipado. só extrair e rodar com godot 3.2 ou maior.
